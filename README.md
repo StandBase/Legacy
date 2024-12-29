@@ -82,9 +82,9 @@
 <body>  
     <header>  
         <nav>  
-            <a href="glavv.html">Главная</a>  
-            <a href="shop.html">Магазин</a>  
-            <a href="forum.html">Форум</a>  
+            <a href="https://standbase.github.io/Legacy/">Главная</a>  
+            <a href="https://standbase.github.io/Legacy-shop/">Магазин</a>  
+            <a href="https://standbase.github.io/Legacy-forum/">Форум</a>  
         </nav>  
     </header>  
 
