@@ -90,7 +90,8 @@
         <h1 class="game-title">ARIZONA ROLE PLAY</h1>
         <p class="description">Многопользовательская онлайн игра с огромным открытым миром, в котором ты можешь стать кем захочешь!</p>
         <div class="button-container">
-            <button class="button">Начать игру</button>
+            <a href="https://standbase.github.io/Legacy/" target="_blank">  
+    <button class="button">Начать игру</button> </a>
         </div>
     </div>
 </body>
