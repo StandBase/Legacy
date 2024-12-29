@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
@@ -81,9 +80,9 @@
 <body>
     <header>
         <nav>
-            <a href="glavv.html">Главная</a>
-            <a href="shop.html">Магазин</a>
-            <a href="forum.html">Форум</a>
+            <a href="https://standbase.github.io/Legacy/" target="_blank">Главная</a>
+            <a href="https://standbase.github.io/Legacy-shop/" target="_blank">Магазин</a>
+            <a href="https://standbase.github.io/Legacy-forum/" target="_blank">Форум</a>
         </nav>
     </header>
 
