@@ -85,16 +85,13 @@
             <a href="shop.html">Магазин</a>
             <a href="forum.html">Форум</a>
         </nav>
-        <div class="cabinet">
-            <a href="#">Кабинет →</a>
-        </div>
     </header>
 
     <div class="content">
         <h1 class="game-title">ARIZONA ROLE PLAY</h1>
         <p class="description">Многопользовательская онлайн игра с огромным открытым миром, в котором ты можешь стать кем захочешь!</p>
         <div class="button-container">
-            <button class="button" onclick="location.href='shop.html'">Перейти в магазин</button>
+            <button class="button">Начать игру</button>
         </div>
     </div>
 </body>
