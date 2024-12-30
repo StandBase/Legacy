@@ -84,7 +84,7 @@
         <nav>  
             <a href="https://standbase.github.io/Legacy/">Главная</a>  
             <a href="https://standbase.github.io/Legacy-shop/">Магазин</a>  
-            <a href="https://standbase.github.io/Legacy-forum/">Форум</a>  
+            <a href="https://legacy.sampproject.ru/index.php">Форум</a>  
         </nav>  
     </header>  
 
